@@ -51,5 +51,3 @@ function populateTextarea() {
     msgInputEl.value = savedData.message.trim();
   }
 }
-
-//
